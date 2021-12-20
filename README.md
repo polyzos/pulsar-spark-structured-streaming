@@ -1,7 +1,9 @@
 ## Pulsar / Spark Structured Streaming
-A Sample Application for analyzing Click Stream data with Apache Pulsar and Spark Structured Streaming
+A Sample Application for analyzing click stream data with Apache Pulsar and Spark Structured Streaming
 
 Start Pulsar
+------------
+
 ```shell
 docker run -it \                                                                           ✘ INT 15:23:43
 -p 6650:6650 --rm \
